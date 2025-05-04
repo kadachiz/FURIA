@@ -15,9 +15,11 @@ Um **chatbot para Telegram** feito em Python, dedicado aos fãs da organização
 - **python-telegram-bot**
 - Outras bibliotecas: `requests`, `json`, etc.
 
-## 🚀 Como rodar localmente
+## 🚀 Como rodar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/furia-fan-bot.git
-   cd furia-fan-bot
+1️⃣ Clone ou baixe este repositório.  
+2️⃣ No terminal, navegue até a pasta do projeto.  
+3️⃣ Instale as dependências:
+pip install -r requirements.txt
+4️⃣ Execute o bot:
+python furia_bot.py
