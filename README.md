@@ -22,7 +22,6 @@ Um **chatbot para Telegram** feito em Python, dedicado aos fãs da organização
 
 - **Python 3**
 - **python-telegram-bot**
-- Outras bibliotecas: `requests`, `json`, etc.
 
 ## 🚀 Como rodar
 
