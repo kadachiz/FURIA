@@ -22,6 +22,7 @@ Um **chatbot para Telegram** feito em Python, dedicado aos fãs da organização
 3️⃣ Instale as dependências:
 ```bash
 pip install -r requirements.txt
-```bash
+```
 4️⃣ Execute o bot:
+```bash
 python furia_bot.py
