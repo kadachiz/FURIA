@@ -4,10 +4,19 @@ Um **chatbot para Telegram** feito em Python, dedicado aos fãs da organização
 
 ## 📌 Funcionalidades
 
-- Responde mensagens de fãs
-- Fornece informações sobre times e jogadores
-- Atualizações de partidas e campeonatos
-- Comandos personalizados para interatividade
+📊 Informações detalhadas sobre jogadores (configurações, perfis, equipamentos)
+
+🏆 Resultados e atualizações das últimas partidas e campeonatos
+
+📰 Últimas notícias e novidades sobre o time
+
+📖 História e trajetória da FURIA Esports
+
+📱 Links e contatos oficiais para redes sociais e site
+
+🔗 Acesso rápido à loja oficial e produtos do time
+
+💬 Outras interações especiais para fãs da organização
 
 ## 🛠 Tecnologias utilizadas
 
